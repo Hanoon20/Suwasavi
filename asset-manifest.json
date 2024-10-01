@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.048289f7.css",
+    "main.js": "/static/js/main.65113990.js",
+    "static/media/Grocery.jpg": "/static/media/Grocery.2af62ee5aead770367f1.jpg",
+    "static/media/baby2.jpg": "/static/media/baby2.92bbb2809edf56003935.jpg",
+    "static/media/equipment.jpg": "/static/media/equipment.c8e3159a3ffbff3ef090.jpg",
+    "static/media/medicine.jpg": "/static/media/medicine.31e9d64608b97dd8e6bc.jpg",
+    "static/media/pharmacy-cover.jpg": "/static/media/pharmacy-cover.1c87b703a54c2175c54e.jpg",
+    "static/media/about-image.jpg": "/static/media/about-image.1e7857332d14dfd38f66.jpg",
+    "index.html": "/index.html",
+    "main.048289f7.css.map": "/static/css/main.048289f7.css.map",
+    "main.65113990.js.map": "/static/js/main.65113990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048289f7.css",
+    "static/js/main.65113990.js"
+  ]
+}
